@@ -1,0 +1,82 @@
+/* ****************
+		BODY
+   **************** */
+   body.festival{margin-left: 5%; margin-right: 5%; background-color: #000;}
+   .row.header, .row.slider, .row.footer, .page-programme, .page-programme-txt{background-image: url(http://films-plein-air/images/fond.png); background-repeat: round;}
+
+/* ****************
+		HEADER
+   **************** */
+   .col-md-6 h1{color: #fd9b00; font-size: 3em;}
+   .col-md-3 h2{color: #fff; font-size: large; text-align: center;}
+   .col-md-3.social-icons{display: flex; flex-direction: row; justify-content: flex-end; margin-top: 20px;}
+   .icons{color: #fd9b00; width: 40px; height: 40px; margin-left: 5px; -webkit-border-radius: 100%; text-align: center; background-color: #404040;}
+   .icons i.fa{font-size: 1.5em; position: relative; display: inline-block; font-family: FontAwesome; font-style: normal; font-style: normal; line-height: 40px;}
+   header .col-md-3, header .col-md-6{margin-bottom: 25px;}
+   .icons a, .icons a:focus{color: #fd9b00;}
+   .icons a:hover{color: #fff;}
+
+/* ****************
+		MENU
+   **************** */
+   i.fa.fa-home{margin: 10px 20px 5px 20px; color: #fd9b00;}
+   .fa.fa-home{font-size: xx-large;}
+   li{border-left: 1px solid #737373;}
+   .li-end{border-right: 1px solid #737373;}
+   .navbar{border-top: 1px solid #737373!important; border-bottom: 1px solid #737373!important; margin-bottom: 0px!important;}
+   .navbar-nav>li>a{line-height: 0px!important;}
+   ul.nav.navbar-nav{margin-top: 10px;}
+   li{padding-left: 20px; padding-right: 20px;}
+   button.btn.btn-default{background-color: #fd9b00;}
+   .btn-default, .form-control{border-color: #080808!important;}
+    .txt-actu{margin-right: 0px!important; margin-left: 0px!important;}
+
+   /* ****************
+		SLIDER
+   **************** */
+   #carousel-example-generic li{padding-left: 0px; padding-right: 0px; background-color: #fff; border: 1px solid #404040;}
+   li.active{background-color: #fd9b00!important;}
+   .slider-pp{padding-left: 0px!important; padding-right: 0px!important;}
+   .slider{z-index: 1; position: relative;}
+   .carousel-inner>.item>img{width: 1920px;}
+   /*** bloc info droite ***/
+   .bloc-info-slider{border: 1px solid #737373; z-index: 5; position: absolute!important; background-color: rgba(0, 0, 0, 0.5); padding-top: 0px; padding-bottom: 0px; color: #737373; padding-left: 1%; padding-right: 1%; width: 25%; top: 10px; right: 0px;}
+   .bloc-info-slider h4{color: #fd9b00; text-align: right; font-size: 1.3em;}
+   p.txt-info-slider{text-align: justify; font-size: 1em;}
+   /*
+   suppression de carousel-caption dans le code html
+   .carousel-caption.bloc-info-slider{padding-top: 0px; padding-bottom: 0px; color: #737373; padding-left: 1%; padding-right: 1%; width: 25%; top: 10px; right: 0px;}
+   */
+   /*** bloc info gauche ***/
+   .txt-gratuit{z-index: 5; position: absolute!important; border: 1px solid #737373; background-color: rgba(0, 0, 0, 0.5); font-weight: bold; color: #fd9b00; font-size: xx-large; text-align: center; width: 17%!important; top: 25%; padding-bottom: 1%; padding-top: 1%;}
+
+   /* ****************
+		ACTUALITES
+   **************** */
+   .bloc-actus{display: flex; flex-direction: row; justify-content: space-between;}
+   .row.bloc-actus{background-color: #222; padding-top: 2%; padding-bottom: 2%; border-top: 1px solid #737373; border-bottom: 1px solid #737373;}
+   .col-md-3.actu-ap{background-color: #fd9b00; width: 20%; padding-left: 1px; padding-right: 1px;}
+   .col-md-3.actu-ap.end{margin-left: 5px;}
+   .col-md-3.actu-ap.middle{margin-left: 5px;}
+   .col-md-3.actu-ap{background-color: #fd9b00; width: 20%; border-radius: 10px;}
+   .col-md-12.actu{background-color: #fff; border: 1px solid #fd9b00; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; padding-left: 0px!important; padding-right: 0px!important;}
+   p.home-txt-actu, p.home-txt-actu-begin{font-size: smaller; padding-left: 5px;}
+   p.home-txt-actu-begin{padding-top: 5px;}
+   .actu-ap h3{margin: 2%; font-size: 1.5em; color: #000;}
+
+   /* ****************
+      PROGRAMME
+   **************** */
+   .page-programme-txt h3{color: #fd9b00;}
+   h4{color: #fd9b00!important; margin-bottom: 1px!important;}
+   .page-programme-txt .col-md-12 p{color: #fff;}
+   .col-md-12 a, .col-md-3 a{color: #fd9b00;}
+   a:hover{color: #fff!important; text-decoration: none!important;}
+   .page-programme .col-md-3 img{border: 1px solid #737373; margin-top: 10%;}
+
+   /* ****************
+		FOOTER
+   **************** */
+   footer a, footer a:focus, footer a:hover{color: #fd9b00; text-decoration: none; display: flex; justify-content: center;}
+   .footer-title{color: #fff; font-size: larger; margin-bottom: 25px;}
+   footer{margin-top: 25px;}
