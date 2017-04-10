@@ -58,20 +58,26 @@
 				<p>*champ requis</p>
 				<form class="form-horizontal">
 					<div class="form-group field-text">
-					<label for="inputNom" class="col-md-2 control-label">Nom<span>*</span> :</label>
-					<div class="col-md-10">
+					<label for="inputNom" class="col-md-4 control-label">Nom<span>*</span> :</label>
+					<div class="col-md-8">
 						<input type="text" name="Nom" class="form-control" id="inputNom" placeholder="Nom">
 					</div>
 				</div>
 				<div class="form-group field-text">
-					<label for="inputPrenom" class="col-md-2 control-label">Prénom<span>*</span> :</label>
-					<div class="col-md-10">
+					<label for="inputPrenom" class="col-md-4 control-label">Prénom<span>*</span> :</label>
+					<div class="col-md-8">
 						<input type="text" name="Prenom" class="form-control" id="inputPrenom" placeholder="Prénom">
 					</div>
 				</div>
 				<div class="form-group field-text">
-					<label for="inputEmail" class="col-md-2 control-label">Email<span>*</span> :</label>
-					<div class="col-md-10">
+					<label for="inputNbrInscrits" class="col-md-4 control-label">Nombre d'inscrits<span>*</span> :</label>
+					<div class="col-md-8">
+						<input type="number" name="nombreInscrits" class="form-control" id="inputNbrInscrits" placeholder="Nombre d'inscrits">
+					</div>
+				</div>
+				<div class="form-group field-text">
+					<label for="inputEmail" class="col-md-4 control-label">Email<span>*</span> :</label>
+					<div class="col-md-8">
 						<input type="email" name="Email" class="form-control" id="inputEmail" placeholder="Email">
 					</div>
 				</div>
@@ -79,42 +85,7 @@
 				    <div class="col-md-12">
 				      <div class="checkbox">
 				        <label class="checkbox-label">
-				          <input type="checkbox" value="Enemy"> Enemy
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="Nid-de-coucou"> Vol au-dessus d'un nid de coucou
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="Holy-motors"> Holy Motors
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="requiem-for-a-dream"> Requiem for a dream
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="into-the-wild"> Into the wild
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="Demolition"> Demolition
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="The master"> The master
-				        </label>
-				      </div>
-				      <div class="checkbox">
-				        <label class="checkbox-label">
-				          <input type="checkbox" value="poetes-disparus"> Cercle des poètes disparus
+				          <input type="checkbox" value="Enemy" checked> Enemy
 				        </label>
 				      </div>
 				    </div>
