@@ -20,6 +20,13 @@
 	?>
 
 <!-- ---------------------------------------------- 
+	                    MENU
+	 ---------------------------------------------- -->		
+	 	<?php 
+				include 'menu.html'; 
+		?>
+
+<!-- ---------------------------------------------- 
 	                  Texte Programme
 	 ---------------------------------------------- -->
 	 <div class="row page-programme-txt">
@@ -27,7 +34,7 @@
 	 	<h3>Le programme du 5 au 8 août 2017 :</h3>
 	 	<p>les projections ont lieu à minuit avec une pause de 15 minutes entre chaque film.<br />
 	 	L'entrée au festival est gratuite mais une pré-inscription à chaque séance est demandée.<br />
-	 	Pour vous inscrire, vous devez remplir le formulaire de pré-inscription disponible sur chaque page détaillée des films projetés ou merci de cliquer sur <a href="formulaire-inscription.html" target="_blank" alt="formulaire d'inscription">ce lien</a>.</p>
+	 	Pour vous inscrire, vous devez remplir le formulaire de pré-inscription disponible sur chaque page détaillée des films projetés ou merci de cliquer sur <a href="formulaire-inscription.php" target="_blank" alt="formulaire d'inscription">ce lien</a>.</p>
 	 	</div>
 	 </div>
 
@@ -40,7 +47,7 @@
 			<h4>Enemy</h4>
 			<p>Projection : 5 août à 18h<br/>
 			Durée 1h30<br />
-			<a href="films/enemy.html" target="_blank" alt="Détails sur le film Enemy">En savoir +</a></p>
+			<a href="films/enemy.php" target="_blank" alt="Détails sur le film Enemy">En savoir +</a></p>
 		</div>
 		<div class="col-md-3">
 			<img src="images/vignettes/vol-au-dessus.jpg">

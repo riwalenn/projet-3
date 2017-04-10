@@ -75,6 +75,26 @@
    .page-programme .col-md-3 img{border: 1px solid #737373; margin-top: 10%;}
 
    /* ****************
+      DETAIL PROGRAMME
+   **************** */
+   .detail-programme{margin-left: 0px; padding-left: 0px; margin-top: 20px; margin-bottom: 20px; width: 100%;}
+   .detail-programme .col-md-7{padding-left: 0px;}
+   .detail-programme .col-md-7 p, .detail-programme .col-md-12 p, .col-md-5.formulaire p{color: #fff; font-size: 1.5em; margin-bottom: 5px;}
+   .detail-programme .col-md-7 span, .detail-programme .col-md-12 span, .col-md-5.formulaire span{color: #fd9b00; font-weight: 900;}
+   .detail-programme .col-md-12 {margin-top: 10px;}
+
+   /* ****************
+      FORMULAIRE
+   **************** */
+   .col-md-5.formulaire{background-color: #222;}
+   @media(min-width: 768px){
+      .form-horizontal .control-label{text-align: left;}
+   }
+   .form-horizontal .control-label, .checkbox-label{color: #fff; font-size: 1.3em;}
+   .form-horizontal .control-label span{color: #fd9b00;}
+   .formulaire button.btn.btn-default{margin-top: 30px;}
+
+   /* ****************
 		FOOTER
    **************** */
    footer a, footer a:focus, footer a:hover{color: #fd9b00; text-decoration: none; display: flex; justify-content: center;}
