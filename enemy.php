@@ -31,12 +31,12 @@
 	 ---------------------------------------------- -->
 	<div class="container detail-programme">
 		<div class="row">
-			<div class="col-md-7">
+			<div class="col-sm-7">
 				<div class="row">
-					<div class="col-md-5">
+					<div class="col-sm-12 col-md-5">
 					<div class="img_g"><img src="/images/vignettes-details/enemy.jpg" alt="Film Enemy" /></div>
 					</div>
-					<div class="col-md-7"><p><span>Date de sortie</span> 27 août 2014 (1h30min). De Denis Villeneuve. Avec Jake Gyllenhaal,
+					<div class="col-sm-12 col-md-7"><p><span>Date de sortie</span> 27 août 2014 (1h30min). De Denis Villeneuve. Avec Jake Gyllenhaal,
 					Mélanie Laurent, Sarah Gadon...</p>
 					<p><span>Genre</span> Thriller</p>
 					<p>Nationalités Canadien, Espagnol.</p></div>
@@ -53,7 +53,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-md-5 formulaire">
+			<div class="col-sm-5 formulaire">
 				<p><span>Inscription :</span></p>
 				<p>*champ requis</p>
 				<form class="form-horizontal">

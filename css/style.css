@@ -17,6 +17,8 @@
    .icons a:hover{color: #fff;}
    @media (min-width: 768px) and (max-width: 991px){
       .col-sm-6 h1{font-size: 2em;}
+      .icons i.fa{line-height: 30px;}
+      .icons{width: 30px; height: 30px;}
    }
 
 /* ****************
@@ -93,10 +95,14 @@
    **************** */
    .detail-programme{padding : 0px; width: 100%;}
    .detail-programme .col-md-7{padding-left: 0px;}
-   .detail-programme .col-md-7 p, .detail-programme .col-md-12 p, .col-md-5.formulaire p, .col-md-10.formulaire p{color: #fff; font-size: 1.5em; margin-bottom: 5px;}
-   .detail-programme .col-md-7 span, .detail-programme .col-md-12 span, .col-md-5.formulaire span, .col-md-10.formulaire span {color: #fd9b00; font-weight: 900;}
+   .detail-programme .col-md-7 p, .detail-programme .col-md-12 p, .col-sm-5.formulaire p, .col-sm-10.formulaire p{color: #fff; font-size: 1.5em; margin-bottom: 5px;}
+   .detail-programme .col-md-7 span, .detail-programme .col-sm-7 span, .detail-programme .col-md-12 span, .col-md-5.formulaire span, .col-sm-5.formulaire span, .col-md-10.formulaire span {color: #fd9b00; font-weight: 900;}
    .detail-programme .col-md-12 {margin-top: 10px;}
    .detail-programme .row{width: 100%; margin-left: 0px; margin-right: 0px; padding-top: 20px;}
+   @media (min-width: 768px) and (max-width: 991px){
+      .detail-programme .col-sm-12{padding-left: 15px;}
+      .col-md-5{margin-bottom: 20px;}
+   }
 
    /* ****************
       FORMULAIRE
@@ -125,7 +131,9 @@
    .txt-contact{color: #737373; margin-top: 20px;}
    .txt-contact h4, .txt-contact h5{color: #fff;}
    .contact-map{margin-top: 25px;}
-
+   @media (min-width: 768px) and (max-width: 991px){
+      .contact-map{margin-top: 85px;}
+   }
    /* ****************
       ACTUALITES
    **************** */
@@ -138,3 +146,6 @@
    footer a, footer a:focus, footer a:hover{color: #fd9b00; text-decoration: none; display: flex; justify-content: center;}
    .footer-title{color: #fff; font-size: larger; margin-bottom: 25px;}
    footer{margin-top: 25px;}
+   @media (min-width: 768px) and (max-width: 991px){
+      .footer-title{font-size: medium;}
+   }
