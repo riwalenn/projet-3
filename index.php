@@ -29,9 +29,9 @@
 <!-- ---------------------------------------------- 
 	                   SLIDER 
 	 ---------------------------------------------- -->
-	<div class="row"><div class="col-md-3 txt-gratuit">ENTREE<br />GRATUITE</div></div>
+	<div class="row"><div class="col-sm-3 txt-gratuit">ENTREE<br />GRATUITE</div></div>
 	<div class="row slider">
-		<div class="col-md-12 slider-pp">
+		<div class="hidden-xs col-sm-12 slider-pp">
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 			  <!-- Indicators -->
 			  <ol class="carousel-indicators">
@@ -90,9 +90,9 @@
                    ACTUALITES 
      ---------------------------------------------- -->
      <div class="row bloc-actus">
-     	<div class="col-md-3 actu-ap begin"><h3>ENEMY</h3>
+     	<div class="col-xs-3 col-md-3 actu-ap begin"><h3>ENEMY</h3>
      		<div class="row txt-actu">
-     			<div class="col-md-12 actu">
+     			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Thriller.</p>
      				<p class="home-txt-actu">Durée: 1h30</p>
      				<p class="home-txt-actu">Projection : le 05 août - 18h.</p>
@@ -100,9 +100,9 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-md-3 actu-ap middle"><h3>VOL AU DESSUS D'UN NID...</h3>
+     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>VOL AU DESSUS D'UN NID...</h3>
      		<div class="row txt-actu">
-     			<div class="col-md-12 actu">
+     			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Drame.</p>
      				<p class="home-txt-actu">Durée: 2h13</p>
      				<p class="home-txt-actu">Projection : le 05 août - 19h45.</p>
@@ -110,9 +110,9 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-md-3 actu-ap middle"><h3>HOLY MOTORS</h3>
+     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>HOLY MOTORS</h3>
      		<div class="row txt-actu">
-     			<div class="col-md-12 actu">
+     			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Drame et fantastique.</p>
      				<p class="home-txt-actu">Durée: 1h55</p>
      				<p class="home-txt-actu">Projection : le 06 août - 18h.</p>
@@ -120,9 +120,9 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-md-3 actu-ap end"><h3>INTO THE WILD</h3>
+     	<div class="col-xs-3 col-md-3 actu-ap end"><h3>INTO THE WILD</h3>
      		<div class="row txt-actu">
-     			<div class="col-md-12 actu">
+     			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Aventure, biopic et drame.</p>
      				<p class="home-txt-actu">Durée: 2h28</p>
      				<p class="home-txt-actu">Projection : le 07 août - 18h.</p>

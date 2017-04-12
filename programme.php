@@ -47,7 +47,7 @@
 			<h4>Enemy</h4>
 			<p>Projection : 5 août à 18h<br/>
 			Durée 1h30<br />
-			<a href="films/enemy.php" target="_blank" alt="Détails sur le film Enemy">En savoir +</a></p>
+			<a href="enemy.php" target="_blank" alt="Détails sur le film Enemy">En savoir +</a></p>
 		</div>
 		<div class="col-md-3">
 			<img src="images/vignettes/vol-au-dessus.jpg">
