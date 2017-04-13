@@ -5,6 +5,7 @@
   <title>Festival : les films plein air !</title>
   <meta name="description" content="Festival des films plein air du 5 au 8 août 2017 à partir de 18h. Entrée gratuite, rendez-vous au parc Monceau à Paris !" />
   <meta name="keywords" content="films, plein air, festival, parc monceau, 5 au 8 aout, 18h-minuit, gratuit, Paris">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Riwalenn Bas">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/bootstrap.min.css">

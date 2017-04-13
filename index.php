@@ -5,6 +5,7 @@
   <title>Festival : les films plein air !</title>
   <meta name="description" content="Festival des films plein air du 5 au 8 août 2017 à partir de 18h. Entrée gratuite, rendez-vous au parc Monceau à Paris !" />
   <meta name="keywords" content="films, plein air, festival, parc monceau, 5 au 8 aout, 18h-minuit, gratuit, Paris">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Riwalenn Bas">
   	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -87,7 +88,7 @@
 	</div>
 
 <!-- ---------------------------------------------- 
-                   ACTUALITES 
+                   FILMS DETAILS
      ---------------------------------------------- -->
      <div class="row bloc-actus">
      	<div class="col-xs-3 col-md-3 actu-ap begin"><h3>ENEMY</h3>
@@ -100,33 +101,33 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>VOL AU DESSUS D'UN NID...</h3>
-     		<div class="row txt-actu">
-     			<div class="col-xs-12 col-md-12 actu">
-     				<p class="home-txt-actu-begin">Drame.</p>
-     				<p class="home-txt-actu">Durée: 2h13</p>
-     				<p class="home-txt-actu">Projection : le 05 août - 19h45.</p>
-     				<p class="home-txt-actu">Film de Milos Forman avec Jack Nicholson, Sydney Lassick, Christopher Lloyd.</p>
-     			</div>
-     		</div>
-     	</div>
-     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>HOLY MOTORS</h3>
-     		<div class="row txt-actu">
-     			<div class="col-xs-12 col-md-12 actu">
-     				<p class="home-txt-actu-begin">Drame et fantastique.</p>
-     				<p class="home-txt-actu">Durée: 1h55</p>
-     				<p class="home-txt-actu">Projection : le 06 août - 18h.</p>
-     				<p class="home-txt-actu">Film de Leos Carax avec Denis Lavant, Edith Scob, Eva Mendes.<br/>&nbsp;</p>
-     			</div>
-     		</div>
-     	</div>
-     	<div class="col-xs-3 col-md-3 actu-ap end"><h3>INTO THE WILD</h3>
+     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>INTO THE WILD</h3>
      		<div class="row txt-actu">
      			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Aventure, biopic et drame.</p>
      				<p class="home-txt-actu">Durée: 2h28</p>
      				<p class="home-txt-actu">Projection : le 07 août - 18h.</p>
      				<p class="home-txt-actu">Film de Sean Penn avec Emile Hirsch, Marcia Gay Harden, William Hurt.</p>
+     			</div>
+     		</div>
+     	</div>
+     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>LE CERCLE DES POETES...</h3>
+     		<div class="row txt-actu">
+     			<div class="col-xs-12 col-md-12 actu">
+     				<p class="home-txt-actu-begin">Drame.</p>
+     				<p class="home-txt-actu">Durée: 1h30</p>
+     				<p class="home-txt-actu">Projection : le 08 août - 20h45.</p>
+     				<p class="home-txt-actu">Film de Peter Weir avec Robin Williams, Ethan Hawke.</p>
+     			</div>
+     		</div>
+     	</div>
+     	<div class="col-xs-3 col-md-3 actu-ap end"><h3>REQUIEM FOR A DREAM</h3>
+     		<div class="row txt-actu">
+     			<div class="col-xs-12 col-md-12 actu">
+     				<p class="home-txt-actu-begin">Drame.</p>
+     				<p class="home-txt-actu">Durée: 1h42</p>
+     				<p class="home-txt-actu">Projection : le 06 août - 20h10.</p>
+     				<p class="home-txt-actu">Film de Darren Aronofsky avec Jared Leto, Ellen Burstyn.</p>
      			</div>
      		</div>
      	</div>

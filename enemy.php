@@ -5,6 +5,7 @@
   <title>Festival : les films plein air !</title>
   <meta name="description" content="Festival des films plein air du 5 au 8 août 2017 à partir de 18h. Entrée gratuite, rendez-vous au parc Monceau à Paris !" />
   <meta name="keywords" content="films, plein air, festival, parc monceau, 5 au 8 aout, 18h-minuit, gratuit, Paris">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Riwalenn Bas">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -29,14 +30,16 @@
 <!-- ---------------------------------------------- 
 	            FILM (détail + formulaire)
 	 ---------------------------------------------- -->
-	<div class="container detail-programme">
-		<div class="row">
+	<div class="container-fluid">
+		<div class="row detail-programme">
 			<div class="col-sm-7">
 				<div class="row">
 					<div class="col-sm-12 col-md-5">
 					<div class="img_g"><img src="/images/vignettes-details/enemy.jpg" alt="Film Enemy" /></div>
 					</div>
-					<div class="col-sm-12 col-md-7"><p><span>Date de sortie</span> 27 août 2014 (1h30min). De Denis Villeneuve. Avec Jake Gyllenhaal,
+					<div class="col-sm-12 col-md-7">
+					<h3>Enemy</h3>
+					<p><span>Date de sortie</span> 27 août 2014. De Denis Villeneuve. Avec Jake Gyllenhaal,
 					Mélanie Laurent, Sarah Gadon...</p>
 					<p><span>Genre</span> Thriller</p>
 					<p>Nationalités Canadien, Espagnol.</p></div>
@@ -48,8 +51,9 @@
 						et de sa mystérieuse femme enceinte. Puis Adam se met à imaginer les plus stupéfiants scénarios...
 						pour lui et pour son propre couple.</p>
 						<p><span>DETAILS SUR LA PROJECTION</span></p>
-						<p>Date : 5 août</p>
-						<p>Horaire : 18h</p>
+						<p class="programme-date">Date : 5 août</p>
+						<p class="programme-horaire">Horaire : 18h</p>
+						<p class="programme-duree">Durée : 1h30</p>
 					</div>
 				</div>
 			</div>
