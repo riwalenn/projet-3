@@ -30,7 +30,7 @@
 <!-- ---------------------------------------------- 
 	                   SLIDER 
 	 ---------------------------------------------- -->
-	<div class="row"><div class="col-sm-3 txt-gratuit">ENTREE<br />GRATUITE</div></div>
+	<div class="row"><div class="hidden-xs col-sm-3 txt-gratuit">ENTREE<br />GRATUITE</div></div>
 	<div class="row slider">
 		<div class="hidden-xs col-sm-12 slider-pp">
 			<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -91,7 +91,7 @@
                    FILMS DETAILS
      ---------------------------------------------- -->
      <div class="row bloc-actus">
-     	<div class="col-xs-3 col-md-3 actu-ap begin"><h3>ENEMY</h3>
+     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap begin"><h3>ENEMY</h3>
      		<div class="row txt-actu">
      			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Thriller.</p>
@@ -101,7 +101,7 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>INTO THE WILD</h3>
+     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap middle"><h3>INTO THE WILD</h3>
      		<div class="row txt-actu">
      			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Aventure, biopic et drame.</p>
@@ -111,7 +111,7 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-xs-3 col-md-3 actu-ap middle"><h3>LE CERCLE DES...</h3>
+     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap middle"><h3>LE CERCLE DES...</h3>
      		<div class="row txt-actu">
      			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Drame.</p>
@@ -121,7 +121,7 @@
      			</div>
      		</div>
      	</div>
-     	<div class="col-xs-3 col-md-3 actu-ap end"><h3>REQUIEM FOR A...</h3>
+     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap end"><h3>REQUIEM FOR A...</h3>
      		<div class="row txt-actu">
      			<div class="col-xs-12 col-md-12 actu">
      				<p class="home-txt-actu-begin">Drame.</p>
