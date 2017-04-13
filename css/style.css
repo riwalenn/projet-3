@@ -17,8 +17,8 @@
    .icons a:hover{color: #fff;}
    @media (min-width: 768px) and (max-width: 991px){
       .col-sm-6 h1{font-size: 2em;}
-      .icons i.fa{line-height: 30px;}
-      .icons{width: 30px; height: 30px;}
+      .icons i.fa{line-height: 27px;}
+      .icons{width: 26px; height: 26px;}
    }
 
 /* ****************
@@ -38,8 +38,12 @@
     @media (min-width: 768px) and (max-width: 991px){
       #bs-example-navbar-collapse-1 .col-sm-8{width: 68%;}
       #bs-example-navbar-collapse-1 .col-sm-3{width: 23%;}
-      #bs-example-navbar-collapse-1 .col-sm-8 li{padding-right: 10px; padding-left: 10px;}
+      #bs-example-navbar-collapse-1 .col-sm-8 li{padding-right: 0px; padding-left: 0px;}
       i.fa.fa-home{margin: 10px 20px 5px 0px;}
+      .col-sm-1.col-md-1.navbar-header{padding-left: 0px; width: 6%;}
+      #bs-example-navbar-collapse-1 .col-sm-3{width: 27%;}
+      #bs-example-navbar-collapse-1 .col-sm-8{width: 67%;}
+      .navbar-nav>li>a{padding-left: 10px; padding-right: 10px;}
    }
 
    /* ****************
@@ -73,6 +77,9 @@
    p.home-txt-actu, p.home-txt-actu-begin{font-size: smaller; padding-left: 5px;}
    p.home-txt-actu-begin{padding-top: 5px;}
    .actu-ap h3{margin: 2%; font-size: 1.5em; color: #000;}
+   @media (min-width: 768px) and (max-width: 991px){
+      .actu-ap h3{font-size: 1em;}
+   }
 
    /* ****************
       PROGRAMME
@@ -136,3 +143,6 @@
    .footer-title{color: #fff; font-size: larger; margin-bottom: 10px;}
    footer{margin-top: 10px;}
    .row.footer{border-top: 1px solid #737373; background-color: #222;}
+   @media (min-width: 768px) and (max-width: 991px){
+      .footer-title{font-size: smaller;}
+   }

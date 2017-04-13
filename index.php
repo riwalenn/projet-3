@@ -61,14 +61,14 @@
 			    <div class="item">
 			      <img src="images/slider/poetes-disparus.png" alt="Cercle des poètes disparus">
 			      <div class="bloc-info-slider">
-						<h4>Cercle des poètes disparus</h4>
+						<h4>Cercle des...</h4>
 						<p class="txt-info-slider">Le Cercle des poètes disparus ou La Société des poètes disparus au Québec est un film américain réalisé par Peter Weir, sorti en 1989.</p>
 			      </div>
 			    </div>
 			    <div class="item">
 			      <img src="images/slider/requiem-for-a-dream.png" alt="Requiem for a dream">
 			      <div class="bloc-info-slider">
-						<h4>Requiem for a dream</h4>
+						<h4>Requiem for a...</h4>
 						<p class="txt-info-slider">Requiem for a Dream ou Retour à Brooklyn au Québec est un film américain de Darren Aronofsky, adapté du roman éponyme d'Hubert Selby et sorti en 2000.</p>
 			      </div>
 			    </div>
