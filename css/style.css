@@ -19,6 +19,7 @@
       .col-sm-6 h1{font-size: 2em;}
       .icons i.fa{line-height: 27px;}
       .icons{width: 26px; height: 26px;}
+      .col-sm-3 h2{font-size: medium;}
    }
 
 /* ****************
@@ -64,6 +65,11 @@
    */
    /*** bloc info gauche ***/
    .txt-gratuit{z-index: 5; position: absolute!important; border: 1px solid #737373; background-color: rgba(0, 0, 0, 0.7); font-weight: bold; color: #fd9b00; font-size: xx-large; text-align: center; width: 17%!important; top: 25%; padding-bottom: 1%; padding-top: 1%;}
+   @media (min-width: 768px) and (max-width: 991px){
+      p.txt-info-slider{font-size: x-small;}
+      .txt-gratuit{top: 18%; font-size: larger;}
+    }
+
    /* ********************
 		DETAIL-FILM ACCUEIL
     ********************** */
@@ -79,18 +85,22 @@
    .actu-ap h3{margin: 2%; font-size: 1.5em; color: #000;}
    @media (min-width: 768px) and (max-width: 991px){
       .actu-ap h3{font-size: 1em;}
+      p.home-txt-actu, p.home-txt-actu-begin{font-size: xx-small;}
    }
 
    /* ****************
       PROGRAMME
    **************** */
    .row.page-programme .col-xs-6.col-sm-4.col-md-3 p{color: #535353;}
-   .page-programme-txt h3, .txt-contact h3, .contact-form h3{color: #fd9b00;}
+   .page-programme-txt h3, .txt-contact h3, .contact-form h3, .col-sm-offset-1.col-sm-10.formulaire h3{color: #fd9b00;}
    h4{color: #fd9b00; margin-bottom: 1px!important;}
    .page-programme-txt .col-md-12 p{color: #fff;}
    .col-md-12 a, .col-md-3 a{color: #fd9b00;}
    a:hover{color: #fff!important; text-decoration: none!important;}
    .page-programme .col-md-3 img{border: 1px solid #737373; margin-top: 10%;}
+   @media (min-width: 768px) and (max-width: 991px){
+      .row.page-programme{text-align: center;}
+   }
 
    /* ****************
       DETAIL PROGRAMME
@@ -102,13 +112,16 @@
    .detail-programme .col-md-12 {margin-top: 10px;}
    .detail-programme .row{width: 100%; margin-left: 0px; margin-right: 0px; padding-top: 20px;}
    .row.detail-programme .col-sm-7 .row .col-sm-12.col-md-7 h3{color: #fd9b00; font-size: 2em; font-weight: bold;}
+   @media (min-width: 768px) and (max-width: 991px){
+      .col-sm-12.col-md-7{padding-left: 15px;}
+   }
 
    /* ****************
       FORMULAIRE
    **************** */
    .formulaire{background-color: #222;}
    .form-horizontal .control-label, .checkbox-label{color: #fff; font-size: 1.3em;}
-   .form-horizontal .control-label span{color: #fd9b00;}
+   .form-horizontal .control-label span, .col-sm-offset-1.col-sm-10.formulaire p span{color: #fd9b00;}
    .formulaire button.btn.btn-default{margin-top: 30px;}
 
    /* ****************
@@ -121,13 +134,13 @@
    /* ****************
       CONTACT 
    **************** */
-   .page-contact, .row.page-actualites{ padding-top: 20px; padding-bottom: 20px;}
+   .page-contact, .row.page-actualites, .col-sm-offset-1.col-sm-10.formulaire{ padding-top: 20px; padding-bottom: 20px;}
    iframe{border: 1px solid #fd9b00;}
    .txt-contact{color: #737373; margin-top: 20px;}
    .txt-contact h4, .txt-contact h5{color: #fff;}
    .contact-map{margin-top: 25px;}
-   .col-sm-6.col-md-4.contact-map{text-align: center;}
-   .col-sm-6.col-md-4.contact-form{padding-left: 25px;}
+   .col-xs-push-1.col-xs-10.col-md-4.contact-map{text-align: center;}
+   .col-xs-12.col-md-4.contact-form{padding-left: 25px;}
  
    /* ****************
       ACTUALITES

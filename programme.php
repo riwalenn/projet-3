@@ -43,56 +43,56 @@
 	                PROGRAMME
 	 ---------------------------------------------- -->
 	<div class="row page-programme">
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/enemy.jpg">
 			<h4>Enemy</h4>
 			<p>Date : 5 août à 18h<br/>
 			Durée 1h30<br />
 			<a href="enemy.php" target="_blank" alt="Détails sur le film Enemy">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/vol-au-dessus.jpg">
 			<h4>Vol au dessus d'un nid de coucou</h4>
 			<p>Date : 5 août à 19h45<br/>
 			Durée 2h13<br />
 			<a href="films/vol-au-dessus.html" target="_blank" alt="Détails sur le film Vol au dessus d'un nid de coucou">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/holy-motors.jpg">
 			<h4>Holy Motors</h4>
 			<p>Date : 6 août à 18h<br/>
 			Durée 1h55<br />
 			<a href="films/holy-motors.html" target="_blank" alt="Détails sur le film Holy motors">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/requiem-for-a-dream.jpg">
 			<h4>Requiem for a dream</h4>
 			<p>Date : 6 août à 20h10<br/>
 			Durée 1h42<br />
 			<a href="films/requiem-for-a-dream.html" target="_blank" alt="Détails sur le film Requiem for a dream">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/into-the-wild.jpg">
 			<h4>Into the wild</h4>
 			<p>Date : 7 août à 18h<br/>
 			Durée 2h28<br />
 			<a href="films/into-the-wild.html" target="_blank" alt="Détails sur le film Into the wild">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/demolition.jpg">
 			<h4>Demolition</h4>
 			<p>Date : 7 août à 20h45<br/>
 			Durée 1h41<br />
 			<a href="films/demolition.html" target="_blank" alt="Détails sur le film Demolition">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/the-master.jpg">
 			<h4>The master</h4>
 			<p>Date : 8 août à 18h<br/>
 			Durée 2h24<br />
 			<a href="films/the-master.html" target="_blank" alt="Détails sur le film The master">En savoir +</a></p>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3">
+		<div class="col-xs-6 col-md-3">
 			<img src="images/vignettes/cercle-poetes-disparus.jpg">
 			<h4>le cercle des poètes disparus</h4>
 			<p>Date : 8 août à 20h45<br/>
