@@ -56,6 +56,11 @@
       #bs-example-navbar-collapse-1 .col-sm-8{width: 67%;}
       .navbar-nav>li>a{padding-left: 10px; padding-right: 10px;}
    }
+   @media (max-width: 767px){
+     .li-end{border-right: 0px;}
+     li{border-left: 0px;}
+     ul.col-sm-8.col-md-8.nav.navbar-nav{text-align: center;}
+   }
 
    /* ****************
 		SLIDER
