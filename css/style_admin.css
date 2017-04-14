@@ -1,0 +1,42 @@
+/* ****************
+		HEADER
+   **************** */
+h1.titre{color: #fd9b00;}
+.row.header, .page-programme-txt, .page-programme{background: none;}
+
+/* ****************
+		MENU
+   **************** */
+ul.col-sm-8.col-md-8.nav.navbar-nav li a{float: left;}
+i.fa.fa-pencil{line-height: 30px; color: #fff;}
+i.fa.fa-plus{color: #fd9b00;}
+
+/* ****************
+		BODY
+   **************** */
+.container p, .container-fluid p, .row p, .row.page-actualites p, .row.page-actualites .col-md-8 h5{color: #9d9d9d; font-size: 1em;}
+.container span, .container-fluid span{text-decoration: underline;}
+h4{font-size: 1.6em;}
+
+/* ****************
+		PAGE INDEX
+   **************** */
+   .container, .container-fluid{width: 100%!important;}
+
+/* ****************
+		PAGE PROGRAMME
+   **************** */
+  .col-md-4.form-modif{margin-top: 1%;}
+  button.btn.btn-default{border-radius: 10px;}
+  i.fa.fa-plus.ajout-film{color: #fff;}
+  .row.page-programme .col-xs-12.col-sm-6.col-md-3 p{float: left;}
+  .row.page-programme .col-xs-12.col-sm-6.col-md-3 button.btn.btn-default{padding-top: 1px; padding-bottom: 1px; margin-left: 3%;}
+  .ajout-img{border: 1px solid #dae9f7; width: 50%; text-align: center; padding: 40px; background-color: #eff7ff;}
+  .ajout-img a, .ajout-img a:hover{color: #222!important;}
+  form.form-horizontal{margin-top: 10%;}
+
+  /* ****************
+		PAGE PROGRAMME
+   **************** */
+   .row.page-actualites label.control-label{color: #fff; font-size: 1.3em;}
+   .row.page-actualites button.btn.btn-default{margin-top: 10%;}
