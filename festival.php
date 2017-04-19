@@ -41,7 +41,7 @@
 		 	- les piques-niques sont interdits ainsi que les bouteilles en verre.<br />
 		 	Veillez à jeter vos détritus dans les endroits appropriés (poubelles, contenaires de tri...).</p>
 	 	</div>
-	 	<div class="col-md-4 col-sm-12 col-sm-offset-2"><img src="../images/festival.png" class="img-festival"></div>
+	 	<div class="col-sm-push-2 col-sm-12 col-md-4 col-md-push-0"><img src="../images/festival.png" class="img-festival"></div>
 	 </div>
 <!-- ---------------------------------------------- 
 	                   FOOTER
