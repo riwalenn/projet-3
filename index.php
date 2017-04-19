@@ -91,45 +91,57 @@
                    FILMS DETAILS
      ---------------------------------------------- -->
      <div class="row bloc-actus">
-     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap begin"><h3>ENEMY</h3>
-     		<div class="row txt-actu">
-     			<div class="col-xs-12 col-md-12 actu">
-     				<p class="home-txt-actu-begin">Thriller.</p>
-     				<p class="home-txt-actu">Durée: 1h30</p>
-     				<p class="home-txt-actu">Projection : le 05 août - 18h.</p>
-     				<p class="home-txt-actu">Film de Denis Villeneuve avec Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon.</p>
-     			</div>
-     		</div>
+     	<div class="col-xs-6 col-md-3">
+     		<div class="panel panel-warning">
+			  <div class="panel-heading">
+			    <h3 class="panel-title">ENEMY</h3>
+			  </div>
+			  <div class="panel-body">
+			    <p class="home-txt-actu-begin">Thriller.</p>
+     			<p class="home-txt-actu">Durée: 1h30</p>
+     			<p class="home-txt-actu">Projection : le 05 août - 18h.</p>
+     			<p class="home-txt-actu">Film de Denis Villeneuve avec Jake Gyllenhaal, Mélanie Laurent, Sarah Gadon.</p>
+			  </div>
+			</div>
      	</div>
-     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap middle"><h3>INTO THE WILD</h3>
-     		<div class="row txt-actu">
-     			<div class="col-xs-12 col-md-12 actu">
-     				<p class="home-txt-actu-begin">Aventure, biopic et drame.</p>
+     	<div class="col-xs-6 col-md-3">
+     		<div class="panel panel-warning">
+			  <div class="panel-heading">
+			    <h3 class="panel-title">INTO THE WILD</h3>
+			  </div>
+			  <div class="panel-body">
+			   <p class="home-txt-actu-begin">Aventure, biopic et drame.</p>
      				<p class="home-txt-actu">Durée: 2h28</p>
      				<p class="home-txt-actu">Projection : le 07 août - 18h.</p>
      				<p class="home-txt-actu">Film de Sean Penn avec Emile Hirsch, Marcia Gay Harden, William Hurt.</p>
-     			</div>
-     		</div>
+			  </div>
+			</div>
      	</div>
-     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap middle"><h3>LE CERCLE DES...</h3>
-     		<div class="row txt-actu">
-     			<div class="col-xs-12 col-md-12 actu">
+     	<div class="col-xs-6 col-md-3">
+     		<div class="panel panel-warning">
+			  <div class="panel-heading">
+			    <h3 class="panel-title">LE CERCLE DES POETES DISPARUS</h3>
+			  </div>
+			  <div class="panel-body">
      				<p class="home-txt-actu-begin">Drame.</p>
      				<p class="home-txt-actu">Durée: 1h30</p>
      				<p class="home-txt-actu">Projection : le 08 août - 20h45.</p>
      				<p class="home-txt-actu">Film de Peter Weir avec Robin Williams, Ethan Hawke.</p>
-     			</div>
-     		</div>
+			  </div>
+			</div>
      	</div>
-     	<div class="col-xs-6 col-sm-3 col-md-3 actu-ap end"><h3>REQUIEM FOR A...</h3>
-     		<div class="row txt-actu">
-     			<div class="col-xs-12 col-md-12 actu">
+     	<div class="col-xs-6 col-md-3">
+     		<div class="panel panel-warning">
+			  <div class="panel-heading">
+			    <h3 class="panel-title">REQUIEM FOR A DREAM</h3>
+			  </div>
+			  <div class="panel-body">
      				<p class="home-txt-actu-begin">Drame.</p>
      				<p class="home-txt-actu">Durée: 1h42</p>
      				<p class="home-txt-actu">Projection : le 06 août - 20h10.</p>
      				<p class="home-txt-actu">Film de Darren Aronofsky avec Jared Leto, Ellen Burstyn.</p>
-     			</div>
-     		</div>
+			  </div>
+			</div>
      	</div>
      </div>
 

@@ -31,16 +31,17 @@
 	                  Texte Festival
 	 ---------------------------------------------- -->
 	 <div class="row page-programme-txt">
-	 	<div class="col-md-12">
-	 	<h3>LE FESTIVAL</h3>
-	 	<p>Du 5 au 8 août au parc Monceau de Paris, le festival des films plein air vous propose une sélection de 12 films. Ce festival a pour but de vous faire découvrir et aimer le cinéma d'auteur.<br />
-	 	Les séances sont gratuites mais il est préférable au préalable de s'inscrire : <a href="formulaire-inscription.php">cliquez ici pour vous incrire</a>.<br />
-	 	Le festival se déroule de la manière suivante : <br />
-	 	- 3 séances entre 18h et minuit,<br />
-	 	- une pause de 15 à 20 minutes entre chaque séance,<br />
-	 	- les piques-niques sont interdits ainsi que les bouteilles en verre.<br />
-	 	Veillez à jeter vos détritus dans les endroits appropriés (poubelles, contenaires de tri...).</p>
+	 	<div class="col-md-12"><h3>LE FESTIVAL</h3></div>
+	 	<div class="col-md-8 col-sm-12">
+		 	<p>Du 5 au 8 août au parc Monceau de Paris, le festival des films plein air vous propose une sélection de 12 films. <br />Ce festival a pour but de vous faire découvrir et aimer le cinéma d'auteur.<br />
+		 	Les séances sont gratuites mais il est préférable au préalable de s'inscrire : <a href="formulaire-inscription.php">cliquez ici pour vous incrire</a>.<br />
+		 	Le festival se déroule de la manière suivante : <br />
+		 	- 3 séances entre 18h et minuit,<br />
+		 	- une pause de 15 à 20 minutes entre chaque séance,<br />
+		 	- les piques-niques sont interdits ainsi que les bouteilles en verre.<br />
+		 	Veillez à jeter vos détritus dans les endroits appropriés (poubelles, contenaires de tri...).</p>
 	 	</div>
+	 	<div class="col-md-4 col-sm-12 col-sm-offset-2"><img src="../images/festival.png" class="img-festival"></div>
 	 </div>
 <!-- ---------------------------------------------- 
 	                   FOOTER

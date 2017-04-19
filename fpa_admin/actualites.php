@@ -36,12 +36,12 @@
 		 	<form>
 	 			<div class="col-md-6">
 	 				<div class="form-group field-text">
-						<label for="inputObjetActu" class="control-label">Actualité :</label>
-						<textarea class="form-control" rows="3" style="width: 50%;"></textarea>
-					</div>
-	 				<div class="form-group field-text">
 						<label for="inputTitreActu" class="control-label">Titre de l'actualité :</label>
 						<input type="text" name="TitreActu" class="form-control" id="inputTitreActu" placeholder="titre de l'actu" style="width: 50%;">
+					</div>
+	 				<div class="form-group field-text">
+						<label for="inputObjetActu" class="control-label">Actualité :</label>
+						<textarea class="form-control" rows="3" style="width: 50%;"></textarea>
 					</div>
 				</div>
 				<div class="col-md-2">

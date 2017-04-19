@@ -81,7 +81,7 @@
 					</div>
 	 			</div>
 	 			<div class="col-md-6 form-group field-text">
-	 				<div class="ajout-img"><p><a href="#">télécharger une image</a></p></div>
+	 				<input type="file" name="ajout-img">
 	 				<h4>Détails sur la projection :</h4>
 					<label for="inputDate" class="control-label">Date :</label>
 					<input type="date" name="Date" class="form-control" id="inputDate" placeholder="date" style="width: 50%;">

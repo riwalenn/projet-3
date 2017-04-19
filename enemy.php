@@ -64,25 +64,25 @@
 					<div class="form-group field-text">
 					<label for="inputNom" class="col-md-4 control-label">Nom<span>*</span> :</label>
 					<div class="col-md-8">
-						<input type="text" name="Nom" class="form-control" id="inputNom" placeholder="Nom">
+						<input type="text" name="Nom" class="form-control" id="inputNom" placeholder="Nom" required>
 					</div>
 				</div>
 				<div class="form-group field-text">
 					<label for="inputPrenom" class="col-md-4 control-label">Prénom<span>*</span> :</label>
 					<div class="col-md-8">
-						<input type="text" name="Prenom" class="form-control" id="inputPrenom" placeholder="Prénom">
+						<input type="text" name="Prenom" class="form-control" id="inputPrenom" placeholder="Prénom" required>
 					</div>
 				</div>
 				<div class="form-group field-text">
 					<label for="inputNbrInscrits" class="col-md-4 control-label">Nombre d'inscrits<span>*</span> :</label>
 					<div class="col-md-8">
-						<input type="number" name="nombreInscrits" class="form-control" id="inputNbrInscrits" placeholder="Nombre d'inscrits">
+						<input type="number" name="nombreInscrits" class="form-control" id="inputNbrInscrits" placeholder="Nombre d'inscrits" required>
 					</div>
 				</div>
 				<div class="form-group field-text">
 					<label for="inputEmail" class="col-md-4 control-label">Email<span>*</span> :</label>
 					<div class="col-md-8">
-						<input type="email" name="Email" class="form-control" id="inputEmail" placeholder="Email">
+						<input type="email" name="Email" class="form-control" id="inputEmail" placeholder="Email" required>
 					</div>
 				</div>
 				<div class="form-group">

@@ -34,9 +34,10 @@ h4{font-size: 1.6em;}
   .ajout-img{border: 1px solid #dae9f7; width: 50%; text-align: center; padding: 40px; background-color: #eff7ff;}
   .ajout-img a, .ajout-img a:hover{color: #222!important;}
   form.form-horizontal{margin-top: 1%;}
+  input[type="file"]{color: #fff;}
 
   /* ****************
-		PAGE PROGRAMME
+		PAGE ACTUALITES
    **************** */
    .row.page-actualites label.control-label{color: #fff; font-size: 1.3em;}
    .row.page-actualites button.btn.btn-default{margin-top: 10%;}
