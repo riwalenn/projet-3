@@ -2,7 +2,7 @@
 		BODY
    **************** */
    body.festival{margin-left: 5%; margin-right: 5%; background-color: #000;}
-   .row.header, .row.slider, .page-programme, .page-actualites, .page-programme-txt, .row.bloc-actus, .detail-programme, .form-inscription, .page-contact{background-image: url(http://films-plein-air/images/fond.png); background-repeat: round;}
+   .row.header, .row.slider, .page-programme, .page-actualites, .page-programme-txt, .row.bloc-actus, .detail-programme, .form-inscription, .page-contact{background-image: url("../images/fond.png"); background-repeat: round;}
 
 /* ****************
 		HEADER
