@@ -33,7 +33,7 @@
 	 <div class="row page-programme-txt">
 	 	<div class="col-md-12">
 	 	<h3>Le programme du 5 au 8 août 2017 :</h3>
-	 	<p>les projections ont lieu à minuit avec une pause de 15 minutes entre chaque film.<br />
+	 	<p>les projections ont lieu de 18h à minuit avec une pause de 15 minutes entre chaque film.<br />
 	 	L'entrée au festival est gratuite mais une pré-inscription à chaque séance est demandée.<br />
 	 	Pour vous inscrire, vous devez remplir le formulaire de pré-inscription disponible sur chaque page détaillée des films projetés ou merci de cliquer sur <a href="formulaire-inscription.php" target="_blank" alt="formulaire d'inscription">ce lien</a>.</p>
 	 	</div>
