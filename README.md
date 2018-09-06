@@ -1,7 +1,6 @@
 # Cinéma plein air
 
 Projet n°3 créé dans le cadre du parcours "développement d'applications PHP & Symfony".
-Il fallait créer un site internet html (version alpha d'un projet) pour une association.
 
 ## Built With
 
