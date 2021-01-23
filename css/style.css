@@ -7,7 +7,15 @@ body.festival {
     background-color: #000;
 }
 
-.row.header, .row.slider, .page-programme, .page-actualites, .page-programme-txt, .row.bloc-actus, .detail-programme, .form-inscription, .page-contact {
+.row.header, 
+.row.slider, 
+.page-programme, 
+.page-actualites, 
+.page-programme-txt, 
+.row.bloc-actus, 
+.detail-programme, 
+.form-inscription, 
+.page-contact {
     background-image: url("../images/fond.png");
     background-repeat: round;
 }
@@ -57,11 +65,13 @@ p {
     line-height: 40px;
 }
 
-header .col-sm-3, header .col-sm-6 {
+header .col-sm-3, 
+header .col-sm-6 {
     margin-bottom: 25px;
 }
 
-.icons a, .icons a:focus {
+.icons a, 
+.icons a:focus {
     color: #fd9b00;
 }
 
@@ -89,7 +99,8 @@ header .col-sm-3, header .col-sm-6 {
 }
 
 @media (max-width: 767px) {
-    .col-xs-12.col-sm-6, .col-xs-12.col-sm-3 {
+    .col-xs-12.col-sm-6, 
+    .col-xs-12.col-sm-3 {
         margin-bottom: 0px;
     }
 
@@ -166,7 +177,8 @@ button.btn.btn-default {
     background-color: #fd9b00;
 }
 
-.btn-default, .form-control {
+.btn-default, 
+.form-control {
     border-color: #080808 !important;
 }
 
@@ -357,7 +369,10 @@ suppression de carousel-caption dans le code html
     color: #535353;
 }
 
-.page-programme-txt h3, .txt-contact h3, .contact-form h3, .col-sm-offset-1.col-sm-10.formulaire h3 {
+.page-programme-txt h3, 
+.txt-contact h3, 
+.contact-form h3, 
+.col-sm-offset-1.col-sm-10.formulaire h3 {
     color: #fd9b00;
 }
 
@@ -370,7 +385,8 @@ h4 {
     color: #fff;
 }
 
-.col-md-12 a, .col-md-3 a {
+.col-md-12 a, 
+.col-md-3 a {
     color: #fd9b00;
 }
 
@@ -402,13 +418,21 @@ a:hover {
     padding-left: 0px;
 }
 
-.detail-programme .col-md-7 p, .detail-programme .col-md-12 p, .col-sm-5.formulaire p, .col-sm-10.formulaire p {
+.detail-programme .col-md-7 p, 
+.detail-programme .col-md-12 p, 
+.col-sm-5.formulaire p, 
+.col-sm-10.formulaire p {
     color: #fff;
     font-size: 1.1em;
     margin-bottom: 5px;
 }
 
-.detail-programme .col-md-7 span, .detail-programme .col-sm-7 span, .detail-programme .col-md-12 span, .col-md-5.formulaire span, .col-sm-5.formulaire span, .col-md-10.formulaire span {
+.detail-programme .col-md-7 span, 
+.detail-programme .col-sm-7 span, 
+.detail-programme .col-md-12 span, 
+.col-md-5.formulaire span, 
+.col-sm-5.formulaire span, 
+.col-md-10.formulaire span {
     color: #fd9b00;
     font-weight: 900;
 }
@@ -441,7 +465,9 @@ a:hover {
         width: 260px;
     }
 
-    .detail-programme .col-md-12 span, .detail-programme .col-md-7 span, .detail-programme .col-sm-7 span {
+    .detail-programme .col-md-12 span, 
+    .detail-programme .col-md-7 span, 
+    .detail-programme .col-sm-7 span {
         font-weight: bolder;
     }
 
@@ -457,12 +483,14 @@ a:hover {
     background-color: #222;
 }
 
-.form-horizontal .control-label, .checkbox-label {
+.form-horizontal .control-label, 
+.checkbox-label {
     color: #fff;
     font-size: 1.3em;
 }
 
-.form-horizontal .control-label span, .col-sm-offset-1.col-sm-10.formulaire p span {
+.form-horizontal .control-label span, 
+.col-sm-offset-1.col-sm-10.formulaire p span {
     color: #fd9b00;
 }
 
@@ -471,7 +499,7 @@ a:hover {
 }
 
 /* ****************
-   FESTIVAL 
+   FESTIVAL
 **************** */
 .col-md-offset-1.col-md-10 h3 {
     color: #fd9b00;
@@ -497,9 +525,11 @@ a:hover {
 }
 
 /* ****************
-   CONTACT 
+   CONTACT
 **************** */
-.page-contact, .row.page-actualites, .col-sm-offset-1.col-sm-10.formulaire {
+.page-contact, 
+.row.page-actualites, 
+.col-sm-offset-1.col-sm-10.formulaire {
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -538,7 +568,8 @@ iframe {
 /* ****************
    ACTUALITES
 **************** */
-.page-actualites .col-md-12 h5, .page-actualites .col-md-12 p {
+.page-actualites .col-md-12 h5, 
+.page-actualites .col-md-12 p {
     color: #737373;
 }
 
@@ -549,11 +580,15 @@ hr {
 /* ****************
      FOOTER
 **************** */
-.row.detail-programme, .row.page-programme, .row.page-programme-txt {
+.row.detail-programme, 
+.row.page-programme, 
+.row.page-programme-txt {
     padding-bottom: 20px;
 }
 
-footer a, footer a:focus, footer a:hover {
+footer a, 
+footer a:focus, 
+footer a:hover {
     color: #fd9b00;
     text-decoration: none;
     display: flex;
