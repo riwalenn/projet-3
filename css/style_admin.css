@@ -2,7 +2,9 @@
 		HEADER
    **************** */
 h1.titre{color: #fd9b00;}
-.row.header, .page-programme-txt, .page-programme{background: none;}
+.row.header, 
+.page-programme-txt, 
+.page-programme{background: none;}
 
 /* ****************
 		MENU
@@ -14,14 +16,20 @@ i.fa.fa-plus{color: #fd9b00;}
 /* ****************
 		BODY
    **************** */
-.container p, .container-fluid p, .row p, .row.page-actualites p, .row.page-actualites .col-md-8 h5{color: #9d9d9d; font-size: 1em;}
-.container span, .container-fluid span{text-decoration: underline;}
+.container p, 
+.container-fluid p, 
+.row p, 
+.row.page-actualites p, 
+.row.page-actualites .col-md-8 h5{color: #9d9d9d; font-size: 1em;}
+.container span, 
+.container-fluid span{text-decoration: underline;}
 h4{font-size: 1.6em;}
 
 /* ****************
 		PAGE INDEX
    **************** */
-   .container, .container-fluid{width: 100%!important;}
+   .container, 
+.container-fluid{width: 100%!important;}
 
 /* ****************
 		PAGE PROGRAMME
@@ -32,7 +40,8 @@ h4{font-size: 1.6em;}
   .row.page-programme .col-xs-12.col-sm-6.col-md-3 p{float: left;}
   .row.page-programme .col-xs-12.col-sm-6.col-md-3 button.btn.btn-default{padding-top: 1px; padding-bottom: 1px; margin-left: 3%;}
   .ajout-img{border: 1px solid #dae9f7; width: 50%; text-align: center; padding: 40px; background-color: #eff7ff;}
-  .ajout-img a, .ajout-img a:hover{color: #222!important;}
+  .ajout-img a, 
+.ajout-img a:hover{color: #222!important;}
   form.form-horizontal{margin-top: 1%;}
   input[type="file"]{color: #fff;}
 
