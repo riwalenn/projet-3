@@ -1,5 +1,7 @@
 # Cinéma plein air
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1c9bc31d494f40f2995c51a845cadfc9)](https://app.codacy.com/gh/riwalenn/projet-3?utm_source=github.com&utm_medium=referral&utm_content=riwalenn/projet-3&utm_campaign=Badge_Grade)
+
 Projet n°3 créé dans le cadre du parcours "développement d'applications PHP & Symfony".
 
 ## Built With
