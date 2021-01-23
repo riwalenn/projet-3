@@ -5,7 +5,9 @@ h1.titre {
     color: #fd9b00;
 }
 
-.row.header, .page-programme-txt, .page-programme {
+.row.header, 
+.page-programme-txt, 
+.page-programme {
     background: none;
 }
 
@@ -28,12 +30,17 @@ i.fa.fa-plus {
 /* ****************
 		BODY
    **************** */
-.container p, .container-fluid p, .row p, .row.page-actualites p, .row.page-actualites .col-md-8 h5 {
+.container p, 
+.container-fluid p, 
+.row p, 
+.row.page-actualites p, 
+.row.page-actualites .col-md-8 h5 {
     color: #9d9d9d;
     font-size: 1em;
 }
 
-.container span, .container-fluid span {
+.container span, 
+.container-fluid span {
     text-decoration: underline;
 }
 
@@ -44,7 +51,8 @@ h4 {
 /* ****************
 		PAGE INDEX
    **************** */
-.container, .container-fluid {
+.container, 
+.container-fluid {
     width: 100% !important;
 }
 
@@ -81,7 +89,8 @@ i.fa.fa-plus.ajout-film {
     background-color: #eff7ff;
 }
 
-.ajout-img a, .ajout-img a:hover {
+.ajout-img a, 
+.ajout-img a:hover {
     color: #222 !important;
 }
 
