@@ -84,7 +84,7 @@ header .col-sm-6{margin-bottom: 25px;}
    .slider{z-index: 1; position: relative;}
    .carousel-inner>.item>img{width: 1920px;}
    /*** bloc info droite ***/
-   .bloc-info-slider{border: 1px solid #737373; z-index: 5; position: absolute!important; background-color: rgba(0, 0, 0, 0.7); padding-top: 0px; padding-bottom: 0px; color: #737373; padding-left: 1%; padding-right: 1%; width: 30%; top: 10px; right: 0px;}
+   .bloc-info-slider{border: 1px solid #737373; z-index: 5; position: absolute!important; background-color: rgba(0, 0, 0, 0.7); color: #737373; padding: 1% 0%;  width: 30%; top: 10px; right: 0px;}
    .bloc-info-slider h4{color: #fd9b00; text-align: right; font-size: 1.3em;}
    p.txt-info-slider{text-align: justify; font-size: 1em;}
    /*
